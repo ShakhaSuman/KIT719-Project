@@ -1,14 +1,72 @@
-embed_model: "all-MiniLM-L6-v2"
-collection: "kit719_rag"
-chunk_size: 800
-overlap: 120
-top_k: 4
+# config.yml
+# Central configuration for models, RAG, and tools.
+# Replace placeholder values with your environment specifics.
 
-use_bm25: true
-use_rerank: false
-threshold: 0.40
+app:
+  app_name: "QA System (Question Answering System)"
+  env:
+    # Expect the key from environment variables; do not hardcode secrets.
+    OPENAI_API_KEY: "${OPENAI_API_KEY}"
+  logging:
+    level: "INFO"
+    json: false
 
-data_raw_dir: "data_raw"
-data_processed_dir: "data_processed"
-index_dir: "index/chroma"
-source_name: "osca_roles"
+models:
+  llm:
+    provider: "openai"
+    model: "gpt-4o-mini" # swap if needed
+    temperature: 0.2
+    max_tokens: 600
+  embeddings:
+    provider: "openai"
+    model: "text-embedding-3-large"
+    batch_size: 64
+
+rag:
+  corpus_path: "./data/corpus" # folder containing your .txt/.pdf/.md
+  vector_db:
+    provider: "chroma" # or "faiss"
+    collection: "kit719_corpus"
+    persist_path: "./data/chroma_db"
+  chunking:
+    chunk_size: 900
+    chunk_overlap: 150
+    split_by: "recursive" # recursive, sentence, or token
+  retriever:
+    top_k: 4
+    mmr: true
+    mmr_lambda: 0.5 # 0=diversity, 1=similarity
+    score_threshold: null # set to e.g., 0.15 if you need a floor
+  reranker:
+    enabled: false # set true if you have a reranker available
+    model: "bge-reranker-v2-m3" # example if using a reranker
+    top_k: 3
+
+routing:
+  # Router governs whether to use RAG / TOOL / BOTH / DIRECT.
+  use_few_shots: true
+  default_route: "RAG" # if router fails, fall back to RAG
+
+tools:
+  # Toggle tool availability here.
+  salary_tool:
+    enabled: true
+    # One of the following providers:
+    provider: "local_table" # "local_table" | "http_api"
+    # If using a local static table:
+    table_path: "./data/salary_table_au.json"
+    # If using an HTTP API (example):
+    http_api:
+      base_url: "https://api.example.com/salaries"
+      auth_header_env: "SALARY_API_KEY" # put your key into env
+      timeout_sec: 12
+
+ui:
+  show_citations: true
+  show_tool_results: true
+  max_passages_shown: 3
+
+evaluation:
+  # Settings for your internal baseline/difficult Qs harness, if any.
+  record_tool_traces: true
+  require_citations_when_rag: true
