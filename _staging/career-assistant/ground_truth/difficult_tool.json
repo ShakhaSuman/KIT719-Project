@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the average salary for a cybersecurity engineer in Hobart, Tasmania?",
+    "expected_route": "tool:salary",
+    "why_difficult": "City-level salary data for specific roles is often missing; DuckDuckGo may not return localized results."
+  },
+  {
+    "question": "What is the typical salary for a part-time UX designer in regional Queensland?",
+    "expected_route": "tool:salary",
+    "why_difficult": "Part-time and regional data are sparse, leading to incomplete or no tool results."
+  },
+  {
+    "question": "What is the average annual salary for a junior data scientist specializing in agriculture in Australia?",
+    "expected_route": "tool:salary",
+    "why_difficult": "Specialized domain + junior level role makes results inconsistent or unavailable online."
+  }
+]
+

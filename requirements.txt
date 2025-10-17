@@ -1,0 +1,7 @@
+pyyaml
+chromadb
+sentence-transformers
+rank-bm25
+duckduckgo-search
+ddgs
+gradio

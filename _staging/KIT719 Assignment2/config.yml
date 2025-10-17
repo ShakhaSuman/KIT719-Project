@@ -1,0 +1,16 @@
+embed_model: "all-MiniLM-L6-v2"
+collection: "kit719_rag"
+chunk_size: 800 
+overlap: 120
+top_k: 4
+
+use_bm25: true
+use_rerank: false
+threshold: 0.40  
+
+
+data_raw_dir: "data_raw"
+data_processed_dir: "data_processed"
+index_dir: "index"
+source_name: "osca_roles"
+index_dir: "index/chroma"

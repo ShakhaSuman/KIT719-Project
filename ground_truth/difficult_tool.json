@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the typical salary for a part-time UX designer in regional Queensland?",
+    "expected_route": "tool:both",
+    "why_difficult": "UX designer not listed in the occupation list and same with the salary"
+  },
+  {
+    "question": "What is the salary of a part time junior level developer in hobart?",
+    "expected_route": "tool:salary",
+    "why_difficult": "Its not a single role in the document and there is also an experience parameter."
+  },
+  {
+    "question": "What is the average annual salary for a junior data scientist specializing in agriculture in Australia?",
+    "expected_route": "tool:both",
+    "why_difficult": "Specialized domain + junior level role makes results inconsistent or unavailable online."
+  }
+]
+

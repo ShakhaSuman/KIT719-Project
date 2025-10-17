@@ -1,0 +1,418 @@
+113232 ICT Project Manager
+Plans, organises, directs, controls and coordinates quality accredited ICT projects. Accountable for day-to-day operations of resourcing, scheduling, prioritisation and task coordination, and meeting project milestones, objectives and deliverables within agreed timeframes and budgets.
+Alternative title
+* ICT Program Manager
+Specialisation
+* ICT Security Project Manager
+Skill level: 1
+Main tasks
+* Manages the entire lifecycle of ICT projects, including initiation, planning, execution, monitoring and closure
+* Manages the selection, implementation and integration of new technology solutions into ICT projects
+* Creates detailed project plans to outline deliverables, timelines, resource allocation and budgeting specific to ICT projects
+* Identifies, analyses and manages risks associated with ICT projects to ensure smooth execution and delivery
+* Implements and maintains quality assurance processes to ensure that ICT projects meet specified standards and requirements
+* Manages multidisciplinary teams of various ICT professionals to ensure efficient project execution
+
+273333 Software Engineer
+Designs, develops, modifies, documents, tests and maintains software applications and systems using programming languages and development tools.
+
+Cyber Security Engineers and Digital Game Developers are excluded from this occupation. Cyber Security Engineers are included in Occupation 271135 Cyber Security Engineer. Digital Game Developers are included in Occupation 273131 Digital Game Developer.
+Alternative title
+* Analyst Programmer
+* Developer Programmer
+* Software Developer
+Specialisation
+* Application Developer
+* Application Engineer
+* Artificial Intelligence Engineer
+* Blockchain Developer
+* Cloud Developer
+* Computer Programmer
+* Database Developer
+* Full Stack Developer
+* IT Security Developer
+* Machine Learning Engineer
+* Software Architect
+Skill level: 1
+Main tasks
+* Designs and implements software architectures to solve complex technical issues in alignment with specified requirements
+* Writes, tests and debugs code to ensure functionality, efficiency and adherence to quality accredited standards
+* Performs code reviews and optimises algorithms to ensure software quality, maintainability and adherence to best practices
+* Implements and manages software development processes and tools
+* Identifies, assesses and mitigates potential risks throughout software development
+* Collaborates with cross-functional teams to integrate software solutions within broader system infrastructures
+* Documents software designs, workflows and user manuals to guide stakeholders and end-users
+
+113233 ICT Service Delivery Manager
+Manages and coordinates the effective delivery of ICT services within an organisation in accordance with predefined service level agreements.
+Alternative titles
+* ICT Service Manager
+* ICT Service Owner
+Specialisation
+* ICT Service Desk Manager
+Skill level: 1
+Main tasks
+* Manages end-to-end ICT service delivery, ensuring adherence to agreed service levels and customer satisfaction
+* Develops and oversees an effective communication infrastructure for incident management response and resolution
+* Monitors service metrics to ensure performance and quality standards
+* May manage relationships with external vendors, negotiate contracts and monitor services
+
+273232 ICT Business Analyst
+Identifies and communicates with users to formulate and produce a requirements specification to create system and software solutions.
+Business analysts (non-ICT) are excluded from this occupation. Business analysts (non- ICT) are included in Occupation 223432 Management Consultant.
+Alternative titles
+* ICT BA
+* ICT Business Consultant
+Specialisation
+* ICT Business Systems Analyst
+Skill level: 1
+Main tasks
+* Gathers requirements from stakeholders to define business, technical and functional needs and specifications of a project
+* Analyses and interprets data to understand trends to inform ICT systems decisions
+* Maps business processes and systems using techniques such as business process modelling
+* Evaluates risks associated with ICT initiatives and recommends mitigations
+* Creates functional and technical specifications, use cases and workflow diagrams to communicate requirements
+* Develops and implements training programs for users, and provides support to ensure effective use of ICT systems
+
+273231 Cloud Architect
+Designs, develops and manages scalable, reliable and secure cloud infrastructure for an organisation.
+Alternative titles
+* Cloud Infrastructure Architect
+* Cloud Solution Architect
+Skill level: 1
+Main tasks
+* Defines the cloud architecture blueprints to meet business objectives
+* Considers security implications and incorporates security best practice into cloud infrastructure
+* Assesses and recommends cloud platforms and technologies
+* Conducts capacity planning and resource allocation for cloud infrastructure
+* Manages cloud infrastructure migration projects
+* Implements and manages cloud-based disaster recovery and business continuity plans
+
+113231 ICT Operations Manager
+Oversees daily operations of ICT systems and infrastructure in an organisation. Ensures the availability and reliability of servers, networks, hardware and software systems, optimises performance, and coordinates ICT maintenance and upgrades.
+Alternative titles
+* Application Support Manager
+* ICT Support Manager
+Skill level: 1
+Main tasks
+* Oversees the design, implementation and maintenance of ICT infrastructure to ensure optimal performance and reliability
+* Develops and enforces ICT policies, procedures and standards for efficient operations
+* Monitors and analyses system performance, and recommends and implements enhancements as required
+* Implements disaster recovery and business continuity plans to ensure that critical ICT systems can be quickly restored in case of a disaster or system failure
+
+113233 ICT Service Delivery Manager
+Manages and coordinates the effective delivery of ICT services within an organisation in accordance with predefined service level agreements.
+Alternative titles
+* ICT Service Manager
+* ICT Service Owner
+Specialisation
+* ICT Service Desk Manager
+Skill level: 1
+Main tasks
+* Manages end-to-end ICT service delivery, ensuring adherence to agreed service levels and customer satisfaction
+* Develops and oversees an effective communication infrastructure for incident management response and resolution
+* Monitors service metrics to ensure performance and quality standards
+* May manage relationships with external vendors, negotiate contracts and monitor services
+
+2731 Digital Game and Web Developers
+Plan, develop, transform and maintain digital games and websites.
+OSCA skill level
+The occupations in this unit group have a skill level corresponding to the qualifications and experience below.
+* Skill Level 1: Bachelor Degree, higher qualification, or at least five years of relevant experience
+
+273131 Digital Game Developer
+Develops and transforms digital games from a concept to an interactive product using coding, software programming, sound effects, rendering and testing.
+Alternative title
+* Video Game Developer
+Specialisation
+* Digital Game Designer
+Skill level: 1
+Main tasks
+* Develops and creates game ideas and translates creative concepts into functional digital game prototypes
+* Writes code using programming languages to implement game mechanics, user interfaces and interactive elements
+* Creates menus, buttons and interactive elements that enhance player navigation and engagement
+* Ensures that the games are compatible with various operating systems, platforms and devices, including desktops, laptops, consoles, interactive headsets, tablets and smartphones
+* Optimises games for performance, addressing issues, such as loading times, frame rates and memory usage
+* Conducts testing to identify and fix bugs, glitches and gameplay issues
+* May design and oversee the implementation of game systems, mechanics and features
+
+273132 Web Developer
+Plans, produces and maintains websites using web programming languages, software applications, technologies and databases together with specifications of user needs, often in conjunction with other ICT Professionals such as ICT Business Analysts, Web Designers and network and usability specialists.
+Full stack developers are excluded from this occupation. Full stack developers are included in Occupation 273333 Software Engineer.
+Alternative title
+* Web Programmer
+Skill level: 1
+Main tasks
+* Designs, develops and maintains websites using various programming languages
+* Collaborates with other ICT Professionals to plan and produce websites that meet user needs and requirements
+* Builds responsive and accessible websites that comply with web accessibility guidelines
+* Uses content management systems to manage website content and data
+* Ensures websites are optimised for performance, security and compatibility with different devices and browsers
+* Develops and tests code to ensure that it meets industry standards, is properly structured, and is compatible with different platforms and operating systems
+* Creates and manages databases to support the functionality of web applications and websites
+* Designs and develops web applications such as online forms and e-commerce platforms, that provide value to users
+* Creates and updates website content such as text, images and multimedia
+
+273233 Solution Architect
+Designs and coordinates the implementation of end-to-end technology solutions to meet business outcomes. Ensures the solution has technological compatibility, efficiency and scalability.
+Cloud solution architects are excluded from this occupation. Cloud solution architects are included in Occupation 273231 Cloud Architect.
+Alternative title
+* Technical Architect
+Skill level: 1
+Main tasks
+* Designs and develops scalable, efficient, secure and cost-effective technical solutions to meet business infrastructure or functional needs
+* Researches and selects appropriate technologies, platforms and tools that best meet the project's requirements
+* Defines the interfaces and data flows between different systems and third-party services so that each component works together
+* Creates technical documentation, architectural diagrams and specifications to guide development teams and communicate the solution architecture
+* Coordinates teams during the implementation of the chosen solution, addresses technical challenges, and oversees that the designs are effectively realised
+
+273234 Systems Analyst
+Evaluates processes and methods used in existing ICT systems and proposes modifications, additional system components or new systems to meet user needs as expressed in specifications and other documentation.
+Skill level: 1
+Main tasks
+* Analyses existing business processes and systems to identify issues, errors and areas for improvement
+* Collaborates with stakeholders to determine system requirements
+* Creates functional solutions and system test plans to meet quality expectations
+* Develops functional specifications for use by system developers
+* Tests and troubleshoots system changes
+
+273331 Cloud Engineer
+Builds, supports, manages and maintains cloud-based solutions and services, including cloud-based processes, applications, storage and computer networks.
+Skill level: 1
+Main tasks
+* Deploys, configures and automates cloud services
+* Creates, tests and implements cloud-based functions and applications
+* Monitors and manages cloud resources and performance to ensure they are meeting production goals
+* Troubleshoots issues with cloud-based solutions and services, and implements enhancements and fixes when necessary
+* Ensures that cloud infrastructure and services meet security and compliance requirements by implementing security controls, managing access and authentication, and monitoring for security threats
+* May plan and implement the migration of data and other information to the cloud
+
+273332 DevOps Engineer
+Facilitates and undertakes communication, collaboration, integration and automation to improve efficiency and workflow across different specialist IT teams.
+Cloud Engineers are excluded from this occupation. Cloud Engineers are included in Occupation 273331 Cloud Engineer.
+Skill level: 1
+Main tasks
+* Leads and coordinates software development and operations, including continuous integration, continuous delivery, code deployment and system automation
+* Promotes collaboration between development teams and operations teams
+* Deploys applications or updates systems to ensure uniformity between networks, servers and automation elements within a given environment
+* Automates software and infrastructure deployment using automation tools to improve the software development life cycle
+* Implements and manages containerisation technologies
+* Conducts performance testing and tuning to optimise the performance and stability of operational infrastructure
+* Automates security testing and vulnerability scanning across the entire software development lifecycle
+
+273333 Software Engineer
+Designs, develops, modifies, documents, tests and maintains software applications and systems using programming languages and development tools.
+Cyber Security Engineers and Digital Game Developers are excluded from this occupation. Cyber Security Engineers are included in Occupation 271135 Cyber Security Engineer. Digital Game Developers are included in Occupation 273131 Digital Game Developer.
+Alternative titles
+* Analyst Programmer
+* Developer Programmer
+* Software Developer
+Specialisations
+* Application Developer
+* Application Engineer
+* Artificial Intelligence Engineer
+* Blockchain Developer
+* Cloud Developer
+* Computer Programmer
+* Database Developer
+* Full Stack Developer
+* IT Security Developer
+* Machine Learning Engineer
+* Software Architect
+Skill level: 1
+Main tasks
+* Designs and implements software architectures to solve complex technical issues in alignment with specified requirements
+* Writes, tests and debugs code to ensure functionality, efficiency and adherence to quality accredited standards
+* Performs code reviews and optimises algorithms to ensure software quality, maintainability and adherence to best practices
+* Implements and manages software development processes and tools
+* Identifies, assesses and mitigates potential risks throughout software development
+* Collaborates with cross-functional teams to integrate software solutions within broader system infrastructures
+* Documents software designs, workflows and user manuals to guide stakeholders and end-users
+
+314131 ICT Hardware Technician
+Supports and maintains ICT systems and peripherals by installing, configuring, testing, troubleshooting and repairing hardware.
+Skill level: 2
+Main tasks
+* Installs and configures ICT hardware, including desktop, laptop and smart devices
+* Tests, troubleshoots and repairs desktop, laptop and smart devices
+* Diagnoses, troubleshoots and repairs peripheral ICT equipment such as terminals, printers and network hardware
+* Installs and maintains networks, servers and network equipment
+
+���嶥��
+����׶�
+314132 Radiocommunications Technician
+Installs, maintains, repairs and diagnoses malfunctions of microwave, telemetry, multiplexing, satellite and other radio and electromagnetic wave communication systems.
+Skill level: 2
+Main tasks
+* Installs and configures radio and communication systems
+* Operates, upgrades and maintains radio communications technical instruments, infrastructure, devices, network systems and field equipment
+* Diagnoses and troubleshoots malfunctions in radio and communication systems
+* Repairs or replaces faulty components in radio and communication systems
+* Tests, analyses performance data, validates and calibrates radio and communication equipment to ensure proper functioning
+* Monitors and analyses radio frequency signals to identify and resolve interference issues
+
+314133 Telecommunications Field Engineer
+Plans, designs, commissions and monitors complex telecommunications networks and associated equipment, provides technical advice and information, and identifies complex problems and initiates action to resolve them.
+Skill level: 2
+Main tasks
+* Plans and designs telecommunications networks and associated equipment
+* Commissions and monitors the installation of telecommunications networks and equipment
+* Provides technical advice and information to clients and colleagues
+* Identifies complex problems in telecommunications networks and equipment
+* Initiates action to resolve complex problems in telecommunications networks and equipment
+* Tests and evaluates the performance of telecommunications networks and equipment
+
+314134 Telecommunications Network Designer
+Plans and designs customer access telecommunications networks, and configures enhancements and expansions.
+Alternative title
+* Telecommunications Network Planner
+Skill level: 2
+Main tasks
+* Conducts surveys and studies to assess the current state of the telecommunications network infrastructure
+* Monitors the overall reliability, capacity and performance of the network
+* Analyses data and identifies areas for improvement and expansion in the network
+* Formulates strategies and plans for the enhancement of customer access telecommunications network infrastructure
+* Creates detailed plans, cost estimates and budget proposals for network infrastructure projects
+* Collaborates with engineers and technicians to plan, design and implement network infrastructure projects
+* Coordinates with local authorities and utility companies to obtain necessary permits and approvals
+* Monitors the progress of network infrastructure projects against the specified time and budget
+* May troubleshoot equipment or systems issues as appropriate
+
+314135 Telecommunications Technical Officer or Technologist
+Carries out specialised design and support functions in telecommunications engineering, including optimisation and performance monitoring of telecommunications networks, diagnosis and repair of faults, and the selection and installation of equipment.
+Skill level: 2
+Main tasks
+* Monitors and optimises the performance of telecommunications networks
+* Diagnoses and repairs faults in telecommunications networks
+* Selects and installs telecommunications equipment
+* Conducts tests and measurements on telecommunications equipment and networks
+
+314136 Web Administrator
+Maintains and improves websites, and provides web technology solutions and services.
+Alternative title
+* Webmaster
+Skill level: 2
+Main tasks
+* Installs, configures and maintains web servers and related software
+* Implements website security measures such as firewalls, antivirus software and secure sockets layer certificates
+* Monitors website traffic and performance, and identifies and troubleshoots issues that affect performance
+* Ensures backup and disaster recovery plans are in place to protect websites and web applications from data loss and downtime
+* Installs and configures website software, such as content management systems and web analytics tools
+
+314199 ICT and Telecommunications Technicians nec
+This occupation group covers ICT and Telecommunications Technicians not elsewhere classified.
+Skill level: 2
+Occupations in this group include:
+* Applications Packager
+* Data Centre Technician
+* Information Systems Technician (Defence)
+* Provisioning Officer
+
+221431 ICT Business Development Manager
+Identifies and generates new ICT business opportunities to further improve market share and awareness by gaining an understanding of customers' ICT needs and promoting goods and services to these customers. May manage some key customer accounts.
+Skill level: 1
+Main tasks
+* Develops and executes strategic business plans to promote existing and new ICT goods and services
+* Conducts research to identify market trends, emerging technologies and ICT business opportunities
+* Presents, promotes and sells ICT goods and services to existing and prospective client businesses in meetings through product demonstrations
+* Provides ICT business recommendations to senior management and business leadership to the team
+* Arranges delivery of ICT goods, installation of equipment and the provision of services
+
+272131 ICT Network and Systems Engineer
+Designs, implements, monitors and maintains computer networks, systems and infrastructure, and takes responsibility for configuration, installation and maintenance of computer hardware and software. Develops, documents and implements project plans and procedures, including for network security. Develops testing procedures, performs audits on computer hardware, software, networks, systems and infrastructure, and provides technical support where required.
+Cloud Engineers and Network Architects are excluded from this occupation. Cloud Engineers are included in Occupation 273331 Cloud Engineer. Network Architects are included in Occupation 272133 Network Architect.
+Specialisations
+* ICT Infrastructure Engineer
+* ICT Network Engineer
+* ICT Systems Integrator
+* Network Analyst
+Skill level: 1
+Main tasks
+* Builds, implements, monitors and maintains computer networks and systems
+* Researches, analyses, manages and monitors network infrastructure
+* Ensures the ongoing performance of networks and systems
+* Develops and modifies software and network programs through use of programming code
+* Configures, installs and maintains computer hardware and software
+* Develops and documents project plans and procedures regarding system configuration, incident resolutions, and system and network maintenance
+* Plans, develops and implements network security measures, policies and procedures
+* Develops testing procedures and audits computer hardware, software, networks and systems
+* Provides technical support to resolve computer network and system issues
+
+272132 Network Administrator
+Installs and maintains hardware and software, implements, monitors and optimises network environments and infrastructure, documents diagnosis and resolution of network-related incidents, manages network security, and attends to other operational tasks. May also perform tasks such as help desk technical support and user training.
+Alternative titles
+* Network Specialist
+* Network Support
+Skill level: 1
+Main tasks
+* Monitors, maintains and optimises network environments and infrastructure
+* Coordinates, installs and maintains computer software and hardware
+* Implements, maintains, improves and audits security measures to ensure network security
+* Troubleshoots and provides technical support for network-related incidents
+* Reviews and updates policies, procedures and documentation relating to network design, infrastructure and security
+* Coordinates backup management of all local resources to prevent loss of information
+
+272133 Network Architect
+Designs, plans, implements and optimises network infrastructure. Develops and maintains network-related documentation, collaborates with clients to create network designs, evaluates network hardware and software for selection, and drives automation of network processes. May also engage in resolution of critical network incidents.
+Network Analysts are excluded from this occupation. Network Analysts are included in Occupation 272131 ICT Network and Systems Engineer.
+Alternative title
+* Network Designer
+Skill level: 1
+Main tasks
+* Designs, plans, implements and optimises network architecture and infrastructure to align with business requirements and to meet specified operational parameters for capacity and performance
+* Designs, reviews and implements network access and security technologies
+* Considers network-related risks and specifies recovery routines and contingency procedures
+* Develops and maintains network documentation, including network diagrams and capabilities
+* Collaborates with clients to create network designs and test plans
+* Evaluates and selects network hardware and software
+* Drives automation of network-related processes
+* May resolve critical network incidents
+
+314131 ICT Hardware Technician
+Supports and maintains ICT systems and peripherals by installing, configuring, testing, troubleshooting and repairing hardware.
+Skill level: 2
+Main tasks
+* Installs and configures ICT hardware, including desktop, laptop and smart devices
+* Tests, troubleshoots and repairs desktop, laptop and smart devices
+* Diagnoses, troubleshoots and repairs peripheral ICT equipment such as terminals, printers and network hardware
+* Installs and maintains networks, servers and network equipment
+
+113232 ICT Project Manager
+Plans, organises, directs, controls and coordinates quality accredited ICT projects. Accountable for day-to-day operations of resourcing, scheduling, prioritisation and task coordination, and meeting project milestones, objectives and deliverables within agreed timeframes and budgets.
+Alternative title
+* ICT Program Manager
+Specialisation
+* ICT Security Project Manager
+Skill level: 1
+Main tasks
+* Manages the entire lifecycle of ICT projects, including initiation, planning, execution, monitoring and closure
+* Manages the selection, implementation and integration of new technology solutions into ICT projects
+* Creates detailed project plans to outline deliverables, timelines, resource allocation and budgeting specific to ICT projects
+* Identifies, analyses and manages risks associated with ICT projects to ensure smooth execution and delivery
+* Implements and maintains quality assurance processes to ensure that ICT projects meet specified standards and requirements
+* Manages multidisciplinary teams of various ICT professionals to ensure efficient project execution
+
+221431 ICT Business Development Manager
+Identifies and generates new ICT business opportunities to further improve market share and awareness by gaining an understanding of customers' ICT needs and promoting goods and services to these customers. May manage some key customer accounts.
+Skill level: 1
+Main tasks
+* Develops and executes strategic business plans to promote existing and new ICT goods and services
+* Conducts research to identify market trends, emerging technologies and ICT business opportunities
+* Presents, promotes and sells ICT goods and services to existing and prospective client businesses in meetings through product demonstrations
+* Provides ICT business recommendations to senior management and business leadership to the team
+* Arranges delivery of ICT goods, installation of equipment and the provision of services
+
+113233 ICT Service Delivery Manager
+Manages and coordinates the effective delivery of ICT services within an organisation in accordance with predefined service level agreements.
+Alternative titles
+* ICT Service Manager
+* ICT Service Owner
+Specialisation
+* ICT Service Desk Manager
+Skill level: 1
+Main tasks
+* Manages end-to-end ICT service delivery, ensuring adherence to agreed service levels and customer satisfaction
+* Develops and oversees an effective communication infrastructure for incident management response and resolution
+* Monitors service metrics to ensure performance and quality standards
+* May manage relationships with external vendors, negotiate contracts and monitor services
+

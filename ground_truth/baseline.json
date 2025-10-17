@@ -1,0 +1,19 @@
+{"qid": "q1", "question": "What are the main tasks of an ICT Project Manager?", 
+"gold_citation": "Manages the entire lifecycle of ICT projects, including initiation, planning, execution, monitoring and closure", 
+"gold_answer": "An ICT Project Manager oversees the full project lifecycle—from initiation and planning to execution, monitoring and closure—ensuring resources, risks, quality and deliverables are managed within agreed timelines and budgets."}
+
+{"qid": "q2", "question": "What are the main tasks of an ICT Business Analyst?", 
+"gold_citation": "Gathers requirements from stakeholders to define business, technical and functional needs and specifications of a project", 
+"gold_answer": "An ICT Business Analyst gathers and documents requirements from stakeholders, analyses business processes and system specifications, and liaises with developers and users to ensure ICT solutions meet business needs."}
+
+{"qid": "q3", "question": "What are the responsibilities of a Cloud Architect?", 
+"gold_citation": "Designs, develops and manages scalable, reliable and secure cloud infrastructure for an organisation", 
+"gold_answer": "A Cloud Architect designs and manages scalable, secure and reliable cloud infrastructures, selects appropriate cloud platforms, and oversees migration, capacity planning and disaster recovery strategies."}
+
+{"qid": "q4", "question": "What is the primary duty of an ICT Service Delivery Manager?", 
+"gold_citation": "Manages end-to-end ICT service delivery, ensuring adherence to agreed service levels and customer satisfaction", 
+"gold_answer": "An ICT Service Delivery Manager ensures ICT services are delivered effectively according to service level agreements, monitors performance metrics, manages incidents, and coordinates with vendors to maintain customer satisfaction."}
+
+{"qid": "q5", "question": "What kind of work does a Digital Game Developer perform?", 
+"gold_citation": "Develops and creates game ideas and translates creative concepts into functional digital game prototypes", 
+"gold_answer": "A Digital Game Developer designs and codes games from concept to prototype, implements gameplay mechanics, optimises performance across platforms, and tests for bugs and user experience quality."}

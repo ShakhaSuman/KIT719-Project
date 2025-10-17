@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the average salary for a software engineer in Australia?",
+    "expected_route": "tool:salary"
+  },
+  {
+    "question": "Average salary for a project manager in Australia?",
+    "expected_route": "tool:salary"
+  },
+  {
+    "question": "What is the typical pay for a data analyst in Australia?",
+    "expected_route": "tool:salary"
+  },
+  {
+    "question": "Summarise responsibilities of a Business Analyst and give a typical salary. ",
+    "expected_route": "tool:both"
+  },
+  {
+    "question": "What’s the median salary for an ICT Project Manager?",
+    "expected_route": "tool:both"
+  }
+]
